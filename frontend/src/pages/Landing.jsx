@@ -84,7 +84,7 @@ export default function Landing() {
       </section>
 
       <footer style={{ textAlign: 'center', padding: '24px', borderTop: '1px solid var(--border)', color: 'var(--text-muted)', fontSize: 13 }}>
-        © 2025 TaskFlow — Built with ❤️ for teams
+        © 2025 TaskFlow
       </footer>
     </div>
   );
