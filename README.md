@@ -3,7 +3,7 @@
 A full-stack Team Task Manager with role-based access control, built with **React + Express + PostgreSQL + Prisma**.
 
 ## 🚀 Live Demo
-**[https://your-app.railway.app]((https://team-task-manager-production-bc82.up.railway.app/))**
+**[https://your-app.railway.app](https://team-task-manager-production-bc82.up.railway.app/)**
 
 ## 🧰 Tech Stack
 
